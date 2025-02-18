@@ -22,5 +22,5 @@
   
 ### Contáctame
 <a href="https://fabio-yesid-pinzon-rojas.github.io/Portafolio_YesDev/index.html"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-Fabio Pinzon-green?style=flat-square&logo=linkedin"></a> 
-<a href="https://www.linkedin.com/in//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabio Pinzon-blue?style=flat-square&logo=linkedin"></a> 
+<a href="Sígueme en LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=fabio-yesid-pinzon-rojas-7b5658270"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabio Pinzon-blue?style=flat-square&logo=linkedin"></a> 
 <a href="Yesid_rojas7@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Hotmail-Yesid_rojas7@hotmail.com-blue?style=flat-square&logo=gmail"></a>  
